@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootCheck", "BootCheck\BootCheck.csproj", "{D84C2722-D7FB-4AC5-BDC8-6B9005BBEB59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84C2722-D7FB-4AC5-BDC8-6B9005BBEB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84C2722-D7FB-4AC5-BDC8-6B9005BBEB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84C2722-D7FB-4AC5-BDC8-6B9005BBEB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84C2722-D7FB-4AC5-BDC8-6B9005BBEB59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
