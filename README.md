@@ -1,6 +1,8 @@
 # BootCheck
 Bootdisk check utility for disk images.
 
+![Screenshot](https://raw.githubusercontent.com/fabiosarts/BootCheck/master/images/screenshot01.png)
+
 BootCheck check any MBR compatible to print out a list of bootable disk images, it currently works with raw floppy disk and hard disk images.
 
 ## OS Support
