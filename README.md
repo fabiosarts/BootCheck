@@ -6,7 +6,7 @@ Bootdisk check utility for disk images.
 BootCheck check any MBR compatible to print out a list of bootable disk images, it currently works with raw floppy disk and hard disk images.
 
 ## Executable downloads
-* Windows/Linux/Mac (32 and 64 bits) [Mega (link will be unusable by each update)](https://mega.nz/#!kFgCya4A!YOwQlA5nV5-ovi5Sg8uctrKjXcIiLPAGr7XMNVE9sVw)
+* Windows/Linux/Mac (32 and 64 bits) [GitHub](https://github.com/fabiosarts/BootCheck/releases/download/v0.1/BootCheck.zip)
 
 ## OS Support
 It has been tested on Windows and lbuntu 18.10 64 bits using Mono
